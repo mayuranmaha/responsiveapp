@@ -1,0 +1,35 @@
+{
+  "name": "responsiveapp",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Mashiur",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayuranmaha/responsiveapp.git"
+  },
+  "keywords": [
+    "responsive",
+    "bootstrap",
+    "app"
+  ],
+  "bugs": {
+    "url": "https://github.com/mayuranmaha/responsiveapp/issues"
+  },
+  "homepage": "https://github.com/mayuranmaha/responsiveapp#readme"
+}
